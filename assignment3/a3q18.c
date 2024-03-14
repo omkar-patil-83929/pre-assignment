@@ -10,9 +10,9 @@ int main()
 	{
 		for(int n=1;n<=10;n++)
 		{
-			printf(" %d\n",n*i);
+			printf(" %d\t",n*i);
 		}
-		printf("\v");
+		printf("\n");
 	}
 	
 		
