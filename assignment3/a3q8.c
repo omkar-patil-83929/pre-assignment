@@ -16,6 +16,7 @@ int main()
 		}
 		i++;
 	}
+	printf("\b");
 	return 0;
 }
 
